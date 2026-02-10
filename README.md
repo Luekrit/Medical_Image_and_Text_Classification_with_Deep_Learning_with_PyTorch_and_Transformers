@@ -1,4 +1,4 @@
-# Deep-Learning-for-Pattern-Recognition-Multi-Class-Classification (PyTorch)
+# Medical Image & Text Classification with Deep Learning (PyTorch & Transformers)
 ## Overview
 
 This project implements an end-to-end deep learning pipeline for multi-class medical image classification using PyTorch. The goal is to design, train, and evaluate convolutional neural networks (CNNs) for skin lesion image classification while addressing real-world challenges such as class imbalance, data quality, and model generalisation.
